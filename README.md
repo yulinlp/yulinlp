@@ -15,16 +15,21 @@ I study **long-term memory for multimodal agents**, **personalized and empatheti
 | **SaRFT · ACL 2025** | Safety-aware role-play fine-tuning of language models | [Paper](https://arxiv.org/abs/2502.20968) · [Code](https://github.com/yulinlp/SaRFT) |
 
 
-## Selected Projects
+## Research & Applications
 
 - **[QiaoBan (巧板)](https://github.com/HIT-SCIR-SC/QiaoBan)** — Core developer of a personalized, empathetic conversational model for children and adolescents. [Official news](https://ir.hit.edu.cn/2025/0626/c19589a372759/page.htm).
 - **HIT AI Counselor (工小星)** — Core project lead and developer of a campus assistant combining university knowledge retrieval and empathetic dialogue. [Official news](https://ir.hit.edu.cn/2025/0806/c19589a376151/page.htm).
 
 ## Background
 
-- **2025 – Present:** Master's studies in Computer Science and Technology, Harbin Institute of Technology.
+- **2025 – Present:** Master's studies in Computer Science and Technology, Harbin Institute of Technology. Advisor: Prof. Yanyan Zhao; Co-advisor: [Prof. Weixiang Zhao](https://circle-hit.github.io/).
 - **2021 – 2025:** Bachelor’s degree in Computer Science and Technology, Harbin Institute of Technology.
 - **June 2026 – Present:** Research Intern, Huawei Consumer Business Group.
 - **Dec. 2024 – Mar. 2025:** Research Intern, Du Xiaoman Financial Technology.
 
-For publications, research experience, and honors, see my [academic homepage](https://yulinlp.github.io/).
+## Honors & Awards
+
+- **National Scholarship for Graduate Students**, Harbin Institute of Technology, 2026.
+- **University-level Model Student (校级优秀标兵)**, Harbin Institute of Technology, 2026.
+
+For publications, research experience, and the full list of honors, see my [academic homepage](https://yulinlp.github.io/).
