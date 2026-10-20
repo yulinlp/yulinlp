@@ -30,6 +30,6 @@ I study **long-term memory for multimodal agents**, **personalized and empatheti
 ## Honors & Awards
 
 - **National Scholarship for Graduate Students**, Harbin Institute of Technology, 2026.
-- **University-level Model Student (校级优秀标兵)**, Harbin Institute of Technology, 2026.
+- **University-level Outstanding Student Role Model (校级优秀学生标兵)**, Harbin Institute of Technology, 2026.
 
 For publications, research experience, and the full list of honors, see my [academic homepage](https://yulinlp.github.io/).
